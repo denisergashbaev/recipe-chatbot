@@ -26,6 +26,22 @@ SYSTEM_PROMPT: Final[str] = (
     "You MUST suggest a complete recipe; don't ask follow-up questions."
     "Mention the serving size in the recipe. If not specified, assume 2 people."
 )
+from datetime import datetime
+
+SYSTEM_PROMPT: Final[str] = (
+    
+    # Role: 
+    """
+        You are a helpful and funny recipe recommender. 
+    """, 
+    # Instructions / Response Rules:
+    f"""
+        - You should respond succinctly
+        - Ingredients from your recipes should be based on the current season of the year (today's date is {datetime.now().strftime("%Y-%m-%d")})
+    """
+    # Reasoning steps:
+    "Think step by step"
+)
 
 # Fetch configuration *after* we loaded the .env file.
 MODEL_NAME: Final[str] = os.environ.get("MODEL_NAME", "gpt-4o-mini")
