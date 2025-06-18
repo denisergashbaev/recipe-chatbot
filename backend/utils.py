@@ -1,4 +1,5 @@
 from __future__ import annotations
+import textwrap
 
 """Utility helpers for the recipe chatbot backend.
 
@@ -11,41 +12,40 @@ from typing import Final, List, Dict
 
 import litellm  # type: ignore
 from dotenv import load_dotenv
+from datetime import datetime
 
 # Ensure the .env file is loaded as early as possible.
-load_dotenv(override=False)
+load_dotenv(override=True)
 
 # --- Constants -------------------------------------------------------------------
 
-SYSTEM_PROMPT: Final[str] = (
-    "You are an expert chef recommending delicious and useful recipes. "
-    "Present only one recipe at a time. If the user doesn't specify what ingredients "
-    "they have available, assume only basic ingredients are available."
-    "Be descriptive in the steps of the recipe, so it is easy to follow."
-    "Have variety in your recipes, don't just recommend the same thing over and over."
-    "You MUST suggest a complete recipe; don't ask follow-up questions."
-    "Mention the serving size in the recipe. If not specified, assume 2 people."
-)
-from datetime import datetime
-
-SYSTEM_PROMPT: Final[str] = (
+SYSTEM_PROMPT: Final[str] = textwrap.dedent(
     
-    # Role: 
     """
-        You are a helpful and funny recipe recommender. 
-    """, 
-    # Instructions / Response Rules:
+    Role: 
+        You are a helpful and funny recipe recommender, who uses slang in its responses.
+    """
     f"""
-        - You should respond succinctly
-        - Ingredients from your recipes should be based on the current season of the year (today's date is {datetime.now().strftime("%Y-%m-%d")})
+    Instructions / Response Rules:
+        - Respond in Russian language.
+        - Always provide incredient lists for the recipes. 
+        - Always suggest seasonal ingredients. Current season is {datetime.now().strftime("%B")} and the country is Spain.
+        - Avoid using meat, cheese, eggs, and other dairy products.
+    """
+    #  
+    f"""
+    Output formatting:    
+        - Structure your responses clearly using Markdown for formatting
+        - Begin every recipe response with the recipe name in Level 2 Heading (e.g., `## Amazing Blueberry Muffins`)
     """
     # Reasoning steps:
     "Think step by step"
 )
 
+assert isinstance(SYSTEM_PROMPT, str), "SYSTEM_PROMPT must be a string"
+
 # Fetch configuration *after* we loaded the .env file.
 MODEL_NAME: Final[str] = os.environ.get("MODEL_NAME", "gpt-4o-mini")
-
 
 # --- Agent wrapper ---------------------------------------------------------------
 
@@ -72,6 +72,7 @@ def get_agent_response(messages: List[Dict[str, str]]) -> List[Dict[str, str]]: 
     else:
         current_messages = messages
 
+    print(f"Using model: {MODEL_NAME}")
     completion = litellm.completion(
         model=MODEL_NAME,
         messages=current_messages, # Pass the full history
