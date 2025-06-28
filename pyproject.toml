@@ -5,6 +5,7 @@ requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.115.12",
     "httpx>=0.28.1",
+    "ipykernel>=6.29.5",
     "judgy>=0.1.0",
     "litellm>=1.72.1",
     "matplotlib>=3.10.3",
