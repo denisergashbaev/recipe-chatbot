@@ -12,11 +12,20 @@ from typing import Final, List, Dict
 
 import litellm  # type: ignore
 from dotenv import load_dotenv
+from phoenix.otel import register
+
 from datetime import datetime
 
 # Ensure the .env file is loaded as early as possible.
 load_dotenv(override=True)
 
+
+
+# configure the Phoenix tracer
+tracer_provider = register(
+  project_name="default", # Default is 'default'
+  auto_instrument=True # Auto-instrument your app based on installed OI dependencies
+)
 # --- Constants -------------------------------------------------------------------
 
 SYSTEM_PROMPT: Final[str] = textwrap.dedent(
@@ -48,6 +57,7 @@ assert isinstance(SYSTEM_PROMPT, str), "SYSTEM_PROMPT must be a string"
 MODEL_NAME: Final[str] = os.environ.get("MODEL_NAME", "gpt-4o-mini")
 
 # --- Agent wrapper ---------------------------------------------------------------
+
 
 def get_agent_response(messages: List[Dict[str, str]]) -> List[Dict[str, str]]:  # noqa: WPS231
     """Call the underlying large-language model via *litellm*.

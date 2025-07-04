@@ -1,0 +1,251 @@
+id,query
+1,I'm looking for a sweet vegetarian dinner recipe that takes about 30 minutes.
+2,Can you suggest a quick vegetarian dinner? Something sweet and ready in half an hour.
+3,"Dinner, vegetarian, sweet, 30 min."
+4,What's a good sweet vegetarian dinner I can make in under 30 minutes?
+5,I need a 30-minute vegetarian dinner. Make it sweet.
+8,I need a vegetarian lunch recipe that I can make in 30 minutes.
+9,"Give me ideas for a quick vegetarian lunch, ready in half an hour."
+10,What's a good vegetarian lunch that takes 30 minutes or less?
+11,"Looking for a fast, vegetarian lunch recipe, 30-minute prep time."
+12,Show me some 30-minute vegetarian lunch options.
+15,I'm looking for a meaty dinner recipe that takes less than an hour to make.
+16,"Can you suggest a quick dinner idea that's hearty and meat-based, ready in under 60 minutes?"
+17,Give me a meaty dinner that's under an hour.
+18,"I need a fast dinner, something meaty, that can be done in less than 60 minutes."
+19,"What's a good speedy, meaty dinner recipe?"
+22,I need a quick and gluten-free snack recipe.
+23,Give me some ideas for fast gluten-free snacks.
+24,Quick gluten-free snack.
+25,"Snack, gluten-free, quick."
+26,What are some easy gluten-free snacks to make?
+29,I'm looking for a dairy-free dessert that I can make in under 45 minutes.
+30,Give me some dessert ideas that are dairy-free and take less than 45 minutes.
+31,"Quick, dairy-free dessert, 45-minute prep."
+32,I need a dessert recipe that's free of dairy and can be made within 45 minutes.
+33,What's a good dairy-free dessert I can whip up in 45 minutes?
+36,I'm looking for an elaborate vegan brunch recipe; I have all the time in the world to cook.
+37,Give me some vegan brunch ideas that take a long time to prepare.
+38,Suggest a time-intensive vegan brunch recipe.
+39,"I want to make a vegan brunch, and I have unlimited time for cooking."
+40,"Vegan brunch, please, something that's quite involved and takes a while to make."
+43,I need a low-carb appetizer that can be made in 15 minutes.
+44,Give me a quick low-carb appetizer recipe under 15 minutes.
+45,"Appetizer, low-carb, 15 minutes."
+46,What are some fast low-carb appetizers that take about 15 minutes?
+47,I'm looking for a 15-minute appetizer that's low in carbs.
+50,I need a high-protein side dish that can be made in about 20 minutes.
+51,"Give me a quick recipe for a high-protein side dish, ready in 20 minutes."
+52,"High-protein side dish, 20 minutes."
+53,"What are some fast, high-protein side dishes I can make in under 20 minutes?"
+54,"20-minute side dish, high in protein."
+57,"I'm looking for a quick, light breakfast that's kid-friendly and takes less than 20 minutes."
+58,"Can you suggest a simple, healthy breakfast for kids that can be made in under 20 minutes?"
+59,"Kid-friendly, lite breakfast, under 20 mins."
+60,"Give me fast and light breakfast ideas suitable for children, ready in less than 20 minutes."
+61,"I need a quick, mild breakfast recipe for my child that's ready in under 20 minutes."
+64,I need an all-day pescatarian recipe for a holiday meal.
+65,What are some good pescatarian options for a holiday feast that can be prepared over several hours?
+66,"Give me ideas for a special, pescatarian holiday dinner that takes all day to cook."
+67,"Holiday meal, pescatarian, long cooking time."
+68,I'm looking for a celebratory pescatarian dish that I can prepare throughout the day.
+71,Can you suggest some sugar-free party food recipes that take about an hour to make?
+72,I'm looking for party dishes that are sugar-free and can be prepared in roughly an hour.
+73,"Give me ideas for party food, sugar-free, under an hour."
+74,What are some good sugar-free party snacks I can make in about 60 minutes?
+75,"Party food, sugar-free, about an hour prep time."
+78,"I need a quick, nut-free, instant bite."
+79,"Give me a recipe for an instant, nut-free quick bite."
+80,"Looking for a quick, instant snack that is nut-free."
+81,"Instant, nut-free quick bite ideas."
+82,What are some quick and nut-free instant snacks?
+85,I need a keto breakfast recipe that I can make in 30 minutes.
+86,Give me some quick keto breakfast ideas that take under 30 minutes.
+87,What's a good 30-minute keto recipe for breakfast?
+88,"Keto breakfast, 30 mins."
+89,Show me breakfast recipes for a keto diet that are ready in half an hour.
+92,I need a heart-healthy lunch recipe that takes less than an hour to make.
+93,"What are some quick, heart-healthy lunch ideas I can prepare in under 60 minutes?"
+94,Give me a recipe for a healthy lunch that's good for my heart and ready in under an hour.
+95,"Looking for lunch, heart-healthy, under 1 hour."
+96,"Can you suggest a heart-healthy lunch that I can whip up quickly, within an hour?"
+99,I'm looking for a spicy dinner recipe that takes about 45 minutes to prepare.
+100,Can you suggest a hot and flavorful dinner I can make in under 45 minutes?
+101,"Spicy dinner, 45 minutes prep time."
+102,"I need to cook a spicy dinner, and I only have 45 minutes."
+103,Give me a quick spicy dinner recipe that's done in 45 minutes.
+106,I'm looking for a quick snack that's vegetarian or vegan and can be made in 10 minutes.
+107,Give me a 10-minute snack recipe without any meat or fish.
+108,"Snack, no meat, fast, 10 minutes."
+109,"A quick snack recipe, takes less than 10 minutes and contains no fish or meat."
+110,I need a non-meat snack for under 10 minutes.
+113,I'm looking for a meaty dessert that requires long preparation time.
+114,Suggest a rich and hearty dessert that takes a long time to prepare.
+115,"Give me ideas for a complex, meaty dessert."
+116,"Dessert recipe, long prep, and meaty."
+117,What's a substantial dessert I can make that has a long prep time?
+120,I'm looking for a quick paleo brunch recipe.
+121,Give me fast brunch ideas that are paleo-friendly.
+122,"Paleo brunch, quick to prepare."
+123,What's a good quick paleo option for brunch?
+124,I need a speedy paleo brunch recipe.
+127,I'm looking for a low-salt appetizer that can be made in 15 minutes.
+128,"Give me a quick recipe for a low-salt appetizer, ready in under 15 minutes."
+129,"Appetizer, low-salt, 15 minutes."
+130,Need a 15-minute appetizer that's low in salt.
+131,What's a good low-sodium appetizer I can whip up in 15 minutes?
+134,I'm looking for a diabetic-friendly side dish that I can make in about 20 minutes.
+135,Give me a quick recipe for a diabetic side dish that takes 20 minutes.
+136,"Diabetic side dish, 20 minutes."
+137,What are some easy side dishes for diabetics that can be prepared in under 20 minutes?
+138,I need a 20-minute side dish recipe suitable for a diabetic diet.
+141,"I'm looking for a light, high-fiber breakfast that takes less than 20 minutes to make."
+142,"Give me a quick, high-fiber breakfast recipe that's light."
+143,"High-fiber, light breakfast, under 20 minutes."
+144,What are some quick and light high-fiber breakfast options ready in less than 20 minutes?
+145,"I need a light, fiber-rich breakfast that's ready in under 20 minutes."
+148,"I need an overnight, lactose-free recipe for a holiday meal."
+149,Give me some holiday meal ideas that are dairy-free and can be prepared overnight.
+150,What are good lactose-free holiday dishes I can make overnight?
+151,"Holiday meal, lactose-free, overnight preparation."
+152,I'm looking for an overnight recipe that's perfect for a holiday feast and is also lactose-free.
+155,"I'm looking for a recipe that is good for a party, is comforting, and takes about an hour to make."
+156,Give me party food ideas that are also comfort food and can be made in roughly an hour.
+157,"Comfort food for a party, ready in around an hour."
+158,I need a comforting party dish that takes approximately an hour to prepare.
+159,What can I cook for a party that's comforting and takes about an hour?
+162,I'm looking for a quick bite that's instant and includes hummus and carrots.
+163,Give me an instant quick bite recipe with hummus and carrots.
+164,"Quick bite, instant, hummus and carrots."
+165,I need a super fast snack with hummus and carrots.
+166,What can I make instantly for a quick bite using hummus and carrots?
+169,I'm looking for a healthy Italian dinner recipe.
+170,"Healthy Italian dinner ideas, please."
+171,Can you suggest a healthy Italian meal for dinner?
+172,I want to make a healthy Italian dish for dinner tonight.
+173,Give me a recipe for healthy Italian dinner.
+176,I'm looking for a vegan lunch that I can make in 30 minutes.
+177,Give me some quick vegan lunch ideas under 30 minutes.
+178,What's a good vegan lunch recipe I can prepare in half an hour?
+179,I need a 30-minute vegan meal for lunch.
+180,"Vegan lunch, 30 min."
+183,I need a high-protein dinner recipe that I can prepare in less than an hour.
+184,"What are some quick, high-protein dinner ideas for tonight?"
+185,Give me a high-protein dinner recipe that takes under 60 minutes.
+186,"Looking for fast, protein-rich dinner options."
+187,"Dinner, high protein, under 1 hour."
+190,I need a quick snack that's not spicy and takes about 10 minutes to make.
+191,Give me some ideas for a 10-minute mild snack.
+192,"What's a fast, non-spicy snack recipe I can whip up in 10 minutes?"
+193,"I'm looking for a quick snack, no spice, ready in 10 minutes."
+194,"Suggest a 10-minute, non-spicy snack."
+197,I'm looking for a vegetarian dessert recipe that takes about 45 minutes to prepare.
+198,Can you suggest a dessert that's vegetarian and can be made in under 45 minutes?
+199,"Vegetarian dessert, 45 minutes."
+200,"I need a quick vegetarian dessert, maximum 45 minutes."
+201,Show me some vegetarian desserts that take around 45 minutes.
+204,"I'd love a meaty brunch recipe, and I have all the time in the world to make it."
+205,"Suggest a hearty, meaty brunch dish where cooking time is not a concern."
+206,"Brunch, meaty, and something that takes a while to prepare."
+207,Give me ideas for a luxurious meaty brunch; I'm not in a hurry.
+208,"I want a meaty brunch recipe, no time constraints."
+211,I'm looking for a dairy-free appetizer that takes about 15 minutes to make.
+212,"Suggest a quick 15-minute appetizer, no dairy please."
+213,"Dairy-free appetizer, ready in 15 minutes."
+214,What are some fast dairy-free appetizers I can prepare in under 15 minutes?
+215,I need a recipe for a 15-minute dairy-free appetizer.
+218,I need a low-carb side dish that I can make in 20 minutes.
+219,"What are some quick, low-carb side dish recipes ready in under 20 minutes?"
+220,"Show me a fast side dish for dinner, low in carbs and taking only 20 minutes."
+221,"Give me ideas for a 20-minute, keto-friendly side."
+222,"I'm looking for a quick, low-carb accompaniment that's done in about 20 minutes."
+225,I'm looking for a lite pescatarian breakfast that takes less than 20 minutes to prepare.
+226,"Give me a quick recipe for a light, pescatarian breakfast ready in under 20 minutes."
+227,"What are some easy, lite pescatarian breakfast ideas that can be made in under 20 minutes?"
+228,"Pescatarian, light breakfast, quick (under 20 minutes)."
+229,"I need a fast and light pescatarian breakfast, less than 20 minutes."
+232,I'm looking for kid-friendly holiday meal ideas that can be enjoyed all day.
+233,"Suggest some easy, all-day recipes for a kid-friendly holiday feast."
+234,What are some good holiday meals that are suitable for kids and can be prepared or eaten over an extended period?
+235,I need a holiday menu that's kid-friendly and good for an all-day celebration.
+236,"Give me some ideas for an all-day, kid-approved holiday spread."
+239,I need nut-free party food that takes about an hour to make.
+240,What's a good party food recipe that's nut-free and can be ready in about an hour?
+241,"Nut-free party snacks, 1 hour."
+242,"Looking for party food recipes without nuts, around an hour prep/cook time."
+243,Can you suggest some nut-free dishes suitable for a party that take roughly 60 minutes?
+246,"I need an instant, sugar-free quick bite."
+247,"Give me a recipe for a fast, sugar-free snack."
+248,"What are some quick, instant, sugar-free bites I can make?"
+249,Suggest an instant sugar-free snack.
+250,I'm looking for a sugar-free quick bite that's instant.
+253,I'm looking for a quick and easy spicy breakfast recipe.
+254,Can you give me ideas for a fast and spicy breakfast?
+255,"Breakfast, spicy, and quick to make."
+256,"I need a simple, hot breakfast."
+257,What's a quick and spicy breakfast dish I can prepare easily?
+260,I'm looking for a keto lunch recipe that can be made in 30 minutes.
+261,"Give me some quick keto lunch ideas, around 30 minutes prep time."
+262,"Lunch, keto, 30 minutes."
+263,What's a good keto lunch I can whip up in half an hour?
+264,Need a 30-minute keto lunch recipe.
+267,I'm looking for a heart-healthy dinner that takes under an hour to prepare.
+268,Quick heart-healthy dinner recipes needed.
+269,What's a good heart-healthy dinner I can make in less than 60 minutes?
+270,"Give me ideas for a healthy dinner, fast, and good for my heart."
+271,"Dinner, heart-healthy, under an hour."
+274,I'm looking for a low-salt snack recipe that takes about 10 minutes to make.
+275,Give me some quick 10-minute snack ideas that are low in salt.
+276,"Snack, low-salt, fast."
+277,"I need a healthy, low-sodium snack that can be prepared in 10 minutes or less."
+278,"What's a good 10-minute, low-salt snack?"
+281,I'm looking for a diabetic-friendly dessert that takes about 45 minutes to prepare.
+282,Can you suggest a dessert recipe for diabetics that can be made in 45 minutes?
+283,"Diabetic dessert, 45 minutes max."
+284,"Recipe for a dessert, low in sugar, ready in under 45 minutes."
+285,"Need a quick diabetic dessert, around 45 minutes prep time."
+288,I need a quick and budget-friendly dinner recipe.
+289,Give me ideas for a fast and cheap dinner.
+290,What's a good dinner that's quick to make and doesn't cost much?
+291,"I'm looking for a speedy, affordable dinner."
+292,"Dinner, quick and budget-friendly."
+295,I'm looking for a quick appetizer that is lactose-free and can be made in 15 minutes.
+296,"Suggest a 15-minute, dairy-free appetizer recipe."
+297,Do you have any ideas for a fast appetizer that's lactose-free and takes under 15 minutes?
+298,"Lactose-free appetizer, 15 minutes."
+299,"I need a dairy-free appetizer recipe that's quick, around 15 minutes to prepare."
+302,I'm looking for a comforting side dish that I can make in 20 minutes.
+303,"Give me a quick recipe for a comfort food side dish, something that takes around 20 minutes."
+304,"Comfort food side, 20 minutes prep."
+305,"I need a fast, comforting side dish recipe, under 20 minutes."
+306,What's a good 20-minute comfort food side dish?
+309,I need a light paleo breakfast recipe that takes less than 20 minutes to prepare.
+310,What are some quick paleo breakfast ideas that are light and can be made in under 20 minutes?
+311,"Give me a recipe for a lite paleo breakfast, ready in less than 20 minutes."
+312,"Paleo, light breakfast, under 20 minutes."
+313,"Fast and light paleo breakfast, quick, under 20 mins."
+316,I'm looking for an overnight holiday meal recipe that includes hummus and carrots.
+317,Give me an overnight holiday dish with hummus and carrots.
+318,"Holiday meal, overnight preparation, featuring hummus and carrots."
+319,I need a holiday meal that can be prepared overnight and has hummus and carrots.
+320,"Overnight holiday recipe with hummus and carrots, please."
+323,I need a party food recipe that is not spicy and takes about an hour to make.
+324,What are some mild party dishes I can prepare in around 60 minutes?
+325,Give me a non-spicy party food idea that can be ready in about an hour.
+326,"Show me recipes for party food, mild taste, takes roughly an hour."
+327,"I'm looking for a party dish, non-spicy, that takes an hour to cook."
+330,"I'm looking for a quick, instant, vegetarian bite."
+331,Give me some ideas for an instant vegetarian quick bite.
+332,What are some recipes for quick vegetarian snacks that can be made instantly?
+333,I need a very fast vegetarian bite.
+334,"Quick, instant, vegetarian meal ideas, please."
+337,I need a gluten-free dinner recipe that can be made in 10 minutes.
+338,Give me ideas for a quick 10-minute gluten-free dinner.
+339,"What's a fast, gluten-free dinner I can cook in 10 minutes?"
+340,"Dinner, gluten-free, 10 minutes."
+341,"I'm looking for a speedy gluten-free dinner, ready in under 10 minutes."
+344,I'm looking for a quick and meaty lunch.
+345,"Can you suggest a fast, meat-based recipe for lunch?"
+346,Quick meaty lunch ideas.
+347,I need a speedy lunch meal with meat.
+348,"What's a good, quick, meaty lunch?"
